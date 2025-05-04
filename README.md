@@ -7,7 +7,7 @@
 ## Proyectos Que Ayudaron a mi Aprendizaje
 
 1. **Proyecto:** [Agendamiento Consultas](https://github.com/Manafune/agendamiento-consultas-api)
-2. **Proyecto:** [Conversor de Moneads](https://github.com/Manafune/challenge-conversor-de-monedas)
+2. **Proyecto:** [Conversor de Monedas](https://github.com/Manafune/challenge-conversor-de-monedas)
 3. **Proyecto:** [LiterAlura](https://github.com/Manafune/literalura-challenge)
 
 ## Tecnologías
